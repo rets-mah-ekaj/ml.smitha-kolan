@@ -4,10 +4,10 @@
 
 **I am listing out the things and sources of my study material before actually working them out. I will mark my progress as well so that you can see what step I am currently on!**
 
-## **Stage 1: MATHS**
-- [ ] [UDACITY: INTRO TO STATISTICS](https://www.udacity.com/course/intro-to-statistics--st101)
-- [ ] [TTHE MATRIX COOKBOOK](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
-- [ ] [MATHEMATICS FOR MACHINE LEARNING SPECIALIZATION](https://www.coursera.org/specializations/mathematics-machine-learning)
+### - [ ] **Stage 1: MATHS**
+  - [ ] [UDACITY: INTRO TO STATISTICS](https://www.udacity.com/course/intro-to-statistics--st101)
+  - [ ] [TTHE MATRIX COOKBOOK](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
+  - [ ] [MATHEMATICS FOR MACHINE LEARNING SPECIALIZATION](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ## **Stage 2: PYTHON**
 - [ ] [FREECODECAMP: PYTHON FOR EVERYONE](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
