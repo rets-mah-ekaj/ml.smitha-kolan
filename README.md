@@ -19,4 +19,18 @@
 
 - [ ] **Stage 3: Basic Machine Learning**
   - [ ] [DUKE UNIVERSITY - INTRODUCTION TO MACHINE LEARNING](https://www.coursera.org/learn/machine-learning-duke)
-  - [ ] [100 DAYS OF MACHINE LEARNING BY SMITHA KOLAN]()
+  - [ ] [100 DAYS OF MACHINE LEARNING BY SMITHA KOLAN](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)
+  - [ ] [GOOGLE MACHINE LEARNING CRASH COURSE](https://developers.google.com/machine-learning/crash-course)
+
+- [ ] **Stage 4: Advanced Machine Learning**
+  - [ ] [HSE: ADVANCED MACHINE LEARNING](https://www.coursera.org/specializations/aml/#about)
+  - [ ] [INTERPRETABLE MACHINE LEARNING](https://christophm.github.io/interpretable-ml-book/)
+
+- [ ] **Stage 5: Deep Learning**
+  - [ ] [DEEP LEARNING WITH PYTHON BY FRANÇOIS CHOLLET](https://github.com/rets-mah-ekaj/ml.smitha-kolan/blob/main/Deep%20Learning%20with%20Python.pdf)
+  - [ ] [DIVE INTO DEEP LEARNING](https://d2l.ai/chapter_introduction/index.html)
+
+- [ ] **Stage 6: Projects**
+  - [ ] [STEM SALARY ML PREDICTOR](https://www.youtube.com/watch?v=OqaoMm4vh2Q)
+  - [ ] [MACHINE LEARNING FUNDAMENTALS](https://github.com/smithakolan/MachineLearningFundamentals)
+  - [ ] [KAGGLE DATASETS](https://www.kaggle.com/datasets)
