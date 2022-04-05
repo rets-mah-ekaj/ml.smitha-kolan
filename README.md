@@ -16,3 +16,7 @@
   - [ ] [ADVANCED NUMPY TUTORIALS](https://www.youtube.com/watch?v=cYugp9IN1-Q)
   - [ ] [PANDAS TUTORIAL - BEGINNER](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
   - [ ] [PANDAS ADVANCED](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+
+- [ ] **Stage 3: Basic Machine Learning**
+  - [ ] [DUKE UNIVERSITY - INTRODUCTION TO MACHINE LEARNING](https://www.coursera.org/learn/machine-learning-duke)
+  - [ ] [100 DAYS OF MACHINE LEARNING BY SMITHA KOLAN]()
